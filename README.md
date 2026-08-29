@@ -1,6 +1,6 @@
 ![Downloads](https://img.shields.io/github/downloads/CrazyForAndroidBRDEV/AEBOY/total?label=downloads&color=blue)
 
-# 🎮 AEBOY – O Novo Emulador de Game Boy para Android!
+# 🎮 AEBOY – O Novo Emulador de GB/GBC para Android!
 
 Chegou o AEBOY, o seu novo emulador favorito para reviver os clássicos de GB / GBC diretamente no seu celular!
 
