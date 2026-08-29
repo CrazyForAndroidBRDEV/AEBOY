@@ -21,7 +21,7 @@ Desenvolvido com foco na simplicidade e na diversão, o AEBOY traz uma experiên
 
 Inscreva-se no canal oficial para acompanhar as atualizações, novidades e novos projetos:
 
-🔗 **Canal no YouTube – Crazy For Android Br**
+[🔗 **Canal no YouTube – Crazy For Android Br**](https://youtube.com/@crazyforandroidbr4644)
 
 Não se esqueça de curtir, comentar o que achou e compartilhar com os amigos que também são fãs de retrogames! 🕹️🔥
 
